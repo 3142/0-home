@@ -1,0 +1,5 @@
+sculpin:
+    ignore: ["**/todo.md"]
+sculpin_content_types:
+  posts:
+    enabled: false

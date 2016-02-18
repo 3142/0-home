@@ -1,0 +1,4 @@
+imports:
+- sculpin_site.yml
+url: http://www.example.com
+google_analytics_tracking_id: UA-1234567-8
