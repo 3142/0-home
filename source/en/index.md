@@ -2,7 +2,9 @@
 title: Pi homepage
 lang: en
 layout: default
+published: true
 ---
+
 
 # Is this a title
 
@@ -17,4 +19,4 @@ Could be.
 The next step will be configuring this:
 http://prose.io/#about
 
-Cannot use my account as I don't want it spamming work repos
+DONE :-)
