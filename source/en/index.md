@@ -6,17 +6,9 @@ published: true
 ---
 
 
-# Is this a title
 
-## Is this a bigger title?
+# Pi Home Portal
 
-This is the homepage
+## Welcome
 
-*Is this mark down?*
-
-Could be.
-
-The next step will be configuring this:
-http://prose.io/#about
-
-DONE :-)
+welcome to the Pi home portal where you can find information about the current portals available, what we mean by "parallels" and a bit about Pi itself.
