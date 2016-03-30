@@ -11,4 +11,4 @@ published: true
 
 ## Welcome
 
-welcome to the Pi home portal where you can find information about the current portals available, what we mean by "parallels" and a bit about Pi itself.
+Welcome to the Pi home portal where you can find information about the current portals available, what we mean by "parallels" and a bit about Pi itself.
