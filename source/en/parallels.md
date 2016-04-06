@@ -2,9 +2,11 @@
 title: Parallels
 lang: en
 layout: default
+published: true
 ---
 
-# Is this a title
+
+# Parallels
 
 ## Is this a bigger title?
 
