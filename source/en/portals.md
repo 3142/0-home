@@ -16,9 +16,12 @@ You're in the home portal right now
 Blogs in English.
 ###Clowie's Corner
 by Clowie the Dog
+
 A bit about the blog.
 ###Blog Name
 by Blog Author
+
 A bit about the blog
+
 
 
