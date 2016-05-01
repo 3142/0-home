@@ -15,7 +15,7 @@ You're in the home portal right now
 ##Pi Blogs Portal
 Blogs in English.
 ###Clowie's Corner - A Pyrenean Mountain Dog's perspective
-by Clowie the Dog![](/http://clowiescorner.en.1.3142.xyz/wp-content/uploads/sites/4/2015/01/ClowieCameo.png)
+by Clowie the Dog![Clowie](/http://clowiescorner.en.1.3142.xyz/wp-content/uploads/sites/4/2015/01/ClowieCameo.png)
 
 A bit about the blog. Here's Clowie's latest post [Interview with Blanche](http://clowiescorner.en.1.3142.xyz/spotlight-on-blanche-aka-the-princess/)
 ###Blog Name - Tagline
