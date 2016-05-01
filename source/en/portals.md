@@ -33,6 +33,14 @@ Clowie's adventures are always entertaining and she also writes informative post
 On a lighter note, her tale about her first encounter with a [kissing gate](http://clowiescorner.en.1.3142.xyz/the-kissing-gate/) has also proved popular. When she turned her sleuthing talents to the question [Who was William Shakespeare?](http://clowiescorner.en.1.3142.xyz/who-was-william-shakespeare/) the results were surprising, to say the least!
 
 Clowie's latest post is [My Calendar](http://clowiescorner.en.1.3142.xyz/my-calendar/). 
+###Pie in the Sky
+####Founder's notes
+####by Fobano
+![Pi](http://res.cloudinary.com/pi/image/upload/c_scale,h_100/v1435492050/New_purple_pi_152_152_temrkj.png)
+
+Fobano.
+
+You'll find Fobano's latest post here [My First Inviqa Discovery](http://piinthesky.en.1.3142.xyz/my-first-inviqa-discovery/).
 ###Richard Miller
 ####It's mainly all Symfony2 stuff and dependency injection related rants
 ####by Richard Miller
@@ -48,7 +56,7 @@ Here's Richard's latest post [Value Objects and Immutability](http://richardmill
 
 Shanethehat is an established blog, started in March 2008. It's a technical blog. You’ll find information on a variety of topics, such as Symfony2, Agile and Scala.
 
-Here's Shane's latest post [Keep controllers clean with custom action builders](http://shaneauckland.en.1.3142.xyz/2016/01/keep-controllers-clean-with-custom-action-builders/).
+This is Shane's latest post [Keep controllers clean with custom action builders](http://shaneauckland.en.1.3142.xyz/2016/01/keep-controllers-clean-with-custom-action-builders/).
 ###Blog Name
 ####Tagline
 ####by Blog Author
