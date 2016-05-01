@@ -37,7 +37,7 @@ Here's Richard's latest post [Value Objects and Immutability](http://richardmill
 ####by Shane Auckland
 ![Shane](http://res.cloudinary.com/pi/image/upload/v1462100983/shane_gb8shl.jpg)
 
-Shanethehat is an established blog, started in March 2008. It is a technical blog. You’ll find information on a variety of topics, such as Symfony2, Agile and Scala.
+Shanethehat is an established blog, started in March 2008. It's a technical blog. You’ll find information on a variety of topics, such as Symfony2, Agile and Scala.
 
 Here's Shane's latest post [Keep controllers clean with custom action builders](http://shaneauckland.en.1.3142.xyz/2016/01/keep-controllers-clean-with-custom-action-builders/).
 ###Blog Name
