@@ -19,6 +19,11 @@ Blogs in English.
 A bit about the blog. 
 
 Here's Clowie's latest post [Interview with Blanche](http://clowiescorner.en.1.3142.xyz/spotlight-on-blanche-aka-the-princess/)
+###Richard Miller - It's mainly all Symfony2 stuff and dependency injection related rants by Richard Miller
+![Confused](http://res.cloudinary.com/pi/image/upload/v1462099265/confused_zc2kls.png)
+A bit about the blog. 
+
+Here's Richard's latest post [Value Objects and Immutability](http://richardmiller.en.1.3142.xyz/2014/11/21/value-objects-and-immutability/)
 ###Blog Name - Tagline by Blog Author
 Author's image from Cloudinary. A bit about the blog.
 
