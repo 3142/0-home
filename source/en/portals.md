@@ -25,7 +25,7 @@ Clowie's latest post is [My Calendar](http://clowiescorner.en.1.3142.xyz/my-cale
 ###Richard Miller - It's mainly all Symfony2 stuff and dependency injection related rants by Richard Miller
 ![Confused](http://res.cloudinary.com/pi/image/upload/v1462099265/confused_zc2kls.png)
 
-Richard may not write posts very often, but when he does they well worth the wait. 
+Richard may not write posts very often, but when he does they're well worth the wait. 
 
 Here's Richard's latest post [Value Objects and Immutability](http://richardmiller.en.1.3142.xyz/2014/11/21/value-objects-and-immutability/).
 ###Blog Name - Tagline by Blog Author
