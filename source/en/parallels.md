@@ -34,7 +34,7 @@ One paragraph of the original text appears followed by one paragraph of the tran
 
 ## Hidden translation
 
-The original text appears with a + sign to press if a translation is required for that paragraph.
+The original text appears with a + sign to press if a translation is required for that paragraph. 
 
 ## Compact
 
