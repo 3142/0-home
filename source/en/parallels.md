@@ -10,7 +10,11 @@ published: true
 
 ## Overview
 
-The original and translated text are presented in a choice of formats. The preference of format may vary with the level of the reader.
+Translated text makes posts available in more languages.
+
+A reader who is only interested in one language can view the post in that language without distractions.
+
+Seeing the original text and the translation can be useful to someone learning a language. The original and translated text are presented in a choice of formats. The preference of format may vary with the level of the reader.
 
 ## Original text
 
