@@ -11,7 +11,7 @@ The Pi website has been designed with the future in mind. Each section of the si
 
 The URL structure is a good example of this approach. The first portal launched was for blogs, so 1.3142.xyz. But each language needs its own subdomain, so we've used en.1.3142.xyz for English and es.1.3142.xyz for Spanish. Each language can grow at its own rate, much like the pages on Wikipedia do.
 ##Pi Home Portal
-You're in the home portal right now. Rose
+You're in the home portal right now.
 ##Pi Blogs Portal
 Blogs in English.
 ###Audiodog
