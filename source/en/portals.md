@@ -17,7 +17,7 @@ Blogs in English.
 ###Auidodog
 ####Don't Panic!
 ####by audiodog
-![Audiodog](http://res.cloudinary.com/pi/image/upload/c_scale,w_100/v1462103614/Audiodog_rmgtpd.png)
+![Audiodog](http://res.cloudinary.com/pi/image/upload/c_scale,h_100/v1462103614/Audiodog_rmgtpd.png)
 
 Audiodog wites a mixture of [technical posts](http://audiodog.en.1.3142.xyz/category/tech/) and [personal posts](http://audiodog.en.1.3142.xyz/category/personal/) all of which are fun and informative.
 
@@ -26,7 +26,7 @@ Audiodog's latest personal post is [Logik LBFANX12 electric oven not heating up]
 ###Clowie's Corner
 ####A Pyrenean Mountain Dog's perspective
 ####by Clowie the Dog
-![Clowie Cameo](http://res.cloudinary.com/pi/image/upload/v1462098948/ClowieCameo_rxwooa.png)
+![Clowie Cameo](http://res.cloudinary.com/pi/image/upload/c_scale,h_100/v1462098948/ClowieCameo_rxwooa.png)
 
 Clowie's adventures are always entertaining and she also writes informative posts. Her most popular post is [To bark, or not to bark, that is the question](http://clowiescorner.en.1.3142.xyz/to-bark-or-not-to-bark-that-is-the-question/) which gives her views on managing the vocal tendencies of a Pyrenean Mountain Dog (Great Pyrenees).
 
@@ -36,7 +36,7 @@ Clowie's latest post is [My Calendar](http://clowiescorner.en.1.3142.xyz/my-cale
 ###Richard Miller
 ####It's mainly all Symfony2 stuff and dependency injection related rants
 ####by Richard Miller
-![Confused](http://res.cloudinary.com/pi/image/upload/v1462099265/confused_zc2kls.png)
+![Confused](http://res.cloudinary.com/pi/image/upload/c_scale,h_100/v1462099265/confused_zc2kls.png)
 
 Richard may not write posts very often, but when he does they're well worth the wait. 
 
@@ -44,7 +44,7 @@ Here's Richard's latest post [Value Objects and Immutability](http://richardmill
 ###Shane the Hat
 ####Where I write stuff about programming
 ####by Shane Auckland
-![Shane](http://res.cloudinary.com/pi/image/upload/v1462100983/shane_gb8shl.jpg)
+![Shane](http://res.cloudinary.com/pi/image/upload/c_scale,h_100/v1462100983/shane_gb8shl.jpg)
 
 Shanethehat is an established blog, started in March 2008. It's a technical blog. You’ll find information on a variety of topics, such as Symfony2, Agile and Scala.
 
