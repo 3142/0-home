@@ -14,6 +14,15 @@ The URL structure is an good example of this approach. The first portal launched
 You're in the home portal right now
 ##Pi Blogs Portal
 Blogs in English.
+###Auidodog
+####Don't Panic!
+####by audiodog
+![Audiodog](http://res.cloudinary.com/pi/image/upload/v1462103614/Audiodog_rmgtpd.png)
+
+Audiodog wites a mixture of [technical posts](http://audiodog.en.1.3142.xyz/category/tech/) and [personal posts](http://audiodog.en.1.3142.xyz/category/personal/) all of which are fun and informative.
+
+Audiodog's latest personal post is [Logik LBFANX12 electric oven not heating up](http://audiodog.en.1.3142.xyz/logik-lbfanx12-electric-oven-not-heating-up/), while his latest tech post is ![Engineers need to keep in time too!]({{site.baseurl}}/http://audiodog.en.1.3142.xyz/engineers-need-to-keep-in-time-too/). 
+
 ###Clowie's Corner
 ####A Pyrenean Mountain Dog's perspective
 ####by Clowie the Dog
