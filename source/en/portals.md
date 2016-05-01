@@ -22,3 +22,5 @@ A bit about the blog. Here's Clowie's latest post [Interview with Blanche](http:
 by Blog Author Author's image.
 
 A bit about the blog. And a link to the latest post
+
+![Test image]({{site.baseurl}}/http://res.cloudinary.com/pi/image/upload/v1435491020/Holm_oak_1100_650_70_bcoh92.jpg)
