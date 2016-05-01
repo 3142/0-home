@@ -38,7 +38,7 @@ Clowie's latest post is [My Calendar](http://clowiescorner.en.1.3142.xyz/my-cale
 ####by Fobano
 ![Pi](http://res.cloudinary.com/pi/image/upload/c_scale,h_100/v1435492050/New_purple_pi_152_152_temrkj.png)
 
-Fobano.
+As Fobano builds Pi he shares the experience with you in the posts that he writes.
 
 You'll find Fobano's latest post here [My First Inviqa Discovery](http://piinthesky.en.1.3142.xyz/my-first-inviqa-discovery/).
 ###Richard Miller
@@ -57,9 +57,3 @@ Here's Richard's latest post [Value Objects and Immutability](http://richardmill
 Shanethehat is an established blog, started in March 2008. It's a technical blog. You’ll find information on a variety of topics, such as Symfony2, Agile and Scala.
 
 This is Shane's latest post [Keep controllers clean with custom action builders](http://shaneauckland.en.1.3142.xyz/2016/01/keep-controllers-clean-with-custom-action-builders/).
-###Blog Name
-####Tagline
-####by Blog Author
-Author's image from Cloudinary. A bit about the blog.
-
-And a link to the latest post
