@@ -20,6 +20,6 @@ A bit about the blog.
 
 Here's Clowie's latest post [Interview with Blanche](http://clowiescorner.en.1.3142.xyz/spotlight-on-blanche-aka-the-princess/)
 ###Blog Name - Tagline by Blog Author
-Author's image.
+Author's image from Cloudinary. A bit about the blog.
 
-A bit about the blog. And a link to the latest post
+And a link to the latest post
