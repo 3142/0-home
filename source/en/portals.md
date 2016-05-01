@@ -19,9 +19,9 @@ Blogs in English.
 
 Clowie's adventures are always entertaining and she also writes informative posts. Her most popular post is [To bark, or not to bark, that is the question](http://clowiescorner.en.1.3142.xyz/to-bark-or-not-to-bark-that-is-the-question/) which gives her views on managing the vocal tendencies of a Pyrenean Mountain Dog (Great Pyrenees).
 
-On a lighter note, her tale about her first encounter with a [kissing gate](http://clowiescorner.en.1.3142.xyz/the-kissing-gate/) has also proved popular. When she turned her sleuthing talents to the question [Who was William Shakespeare?(http://clowiescorner.en.1.3142.xyz/who-was-william-shakespeare/) the results were surprising, to say the least!
+On a lighter note, her tale about her first encounter with a [kissing gate](http://clowiescorner.en.1.3142.xyz/the-kissing-gate/) has also proved popular. When she turned her sleuthing talents to the question [Who was William Shakespeare?](http://clowiescorner.en.1.3142.xyz/who-was-william-shakespeare/) the results were surprising, to say the least!
 
-Clowie's latest post is [My Calendar]( http://clowiescorner.en.1.3142.xyz/my-calendar/. 
+Clowie's latest post is [My Calendar](http://clowiescorner.en.1.3142.xyz/my-calendar/). 
 ###Richard Miller - It's mainly all Symfony2 stuff and dependency injection related rants by Richard Miller
 ![Confused](http://res.cloudinary.com/pi/image/upload/v1462099265/confused_zc2kls.png)
 
