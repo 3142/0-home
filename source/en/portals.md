@@ -14,14 +14,11 @@ The URL structure is an good example of this approach. The first portal launched
 You're in the home portal right now
 ##Pi Blogs Portal
 Blogs in English.
-###Clowie's Corner
-by Clowie the Dog
+###Clowie's Corner - A Pyrenean Mountain Dog's perspective
+by Clowie the Dog![]({{site.baseurl}}/http://clowiescorner.en.1.3142.xyz/wp-content/uploads/sites/4/2015/01/ClowieCameo.png)
 
-A bit about the blog.
-###Blog Name
-by Blog Author
+A bit about the blog. Here's Clowie's latest post [Interview with Blanche](http://clowiescorner.en.1.3142.xyz/spotlight-on-blanche-aka-the-princess/)
+###Blog Name - Tagline
+by Blog Author Author's image.
 
-A bit about the blog
-
-
-
+A bit about the blog. And a link to the latest post
