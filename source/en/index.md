@@ -6,25 +6,9 @@ published: true
 ---
 
 
-# Is this a title
 
-## Is this a bigger title?
+# Pi Home Portal
 
-This is the homepage
+## Welcome
 
-*Is this mark down?*
-
-Could be.
-Prose update 20:58
-Prose update 21:26
-Prose update 21:33
-Prose 21:36
-Prose 21:52
-Prose 21:54
-Prose 22:43
-Prose done
-
-
-
-
-
+Welcome to the Pi home portal where you can find information about the [current portals](/portals/) available, what we mean by "[parallels](/parallels/)" and a bit [about Pi](/about/) itself. You're more than welcome to [contact us](/contact/).
