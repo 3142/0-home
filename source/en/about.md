@@ -2,6 +2,8 @@
 title: About
 lang: en
 layout: default
+published: true
 ---
 
-About page
+
+About page. Made a change
