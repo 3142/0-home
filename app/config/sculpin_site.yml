@@ -2,6 +2,7 @@
 # via `site.*`. So for example, {{ site.title }} can be used
 # in a template to get the contents of the `title` key.
 
+environment: dev
 menu:
   en:
     -

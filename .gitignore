@@ -1,4 +1,3 @@
-output_dev*
-output_prod*
+output_*
 .sculpin*
 .idea*

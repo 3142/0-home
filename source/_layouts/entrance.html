@@ -80,7 +80,7 @@
                                     <dt><label for="cssplay_sub{{ section_index }}">{{ section.name }}</label></dt>
                                     <dd>
                                         {% for item in section.items %}
-                                            <a href="{{ item.url }}">{{ item.name }}</a>
+                                            <a href="{{ item.url ? item.url : ('http://' ~ lang.lang ~ '.' ~ section.portal ~ '.' ~ site.environment ~ '.xyz/' ~ item.path) }}">{{ item.name }}</a>
                                         {% endfor %}
                                     </dd>
                                 </dl>
@@ -100,7 +100,7 @@
 
             <!--            <img class="fashion" src="Holm oak 1100 650.jpg" alt="" />
             -->
-            <img class="fashion" src="http://res.cloudinary.com/pi/image/upload/v1435491020/Holm_oak_1100_650_70_bcoh92.jpg" alt="" />
+            <img class="fashion" src="{{ page.image }}" alt="" />
 
             <div id="cssplay_menutoggle">
                 <label for="cssplay_menuToggle" title="Toggle Menu"></label>

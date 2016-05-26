@@ -2,31 +2,34 @@
 title: Pi | 3.1415926536
 keywords: pi, entrance, entrada
 description: Pi entrance for language selection.| Entrada de Pi que permite selección del idioma.
+image: http://res.cloudinary.com/pi/image/upload/v1435491020/Holm_oak_1100_650_70_bcoh92.jpg
 lang: en
-layout: landing
+layout: entrance
 clicky: 100809263
 menu:
     -
         name: en : English
+        lang: en
         sections:
             -
                 name: Home Portal
+                portal: 0
                 items:
                     -
                         name: Pi
-                        url: http://en.0.3142.xyz/pi
+                        path: pi
                     -
                         name: Portals
-                        url: http://en.0.3142.xyz/portals
+                        path: portals
                     -
                         name: Parallels
-                        url: http://en.0.3142.xyz/parallels
+                        path: parallels
                     -
                         name: Contact
-                        url: http://en.0.3142.xyz/contact
+                        path: contact
                     -
                         name: About
-                        url: http://en.0.3142.xyz/about
+                        path: about
             -
                 name: Blogs in English
                 items:
@@ -45,24 +48,24 @@ menu:
     -
         name: es : español
         sections:
-            -
-                name: Portal de inicio
-                items:
-                    -
-                        name: Pi
-                        url: http://es.0.3142.xyz/pi
-                    -
-                        name: Portales
-                        url: http://es.0.3142.xyz/portales
-                    -
-                        name: Paralelos
-                        url: http://es.0.3142.xyz/paralelos
-                    -
-                        name: Contacto
-                        url: http://es.0.3142.xyz/contacto
-                    -
-                        name: Sobre Pi
-                        url: http://es.0.3142.xyz/sobre
+#            -
+#                name: Portal de inicio
+#                items:
+#                    -
+#                        name: Pi
+#                        url: http://es.0.3142.xyz/pi
+#                    -
+#                        name: Portales
+#                        url: http://es.0.3142.xyz/portales
+#                    -
+#                        name: Paralelos
+#                        url: http://es.0.3142.xyz/paralelos
+#                    -
+#                        name: Contacto
+#                        url: http://es.0.3142.xyz/contacto
+#                    -
+#                        name: Sobre Pi
+#                        url: http://es.0.3142.xyz/sobre
             -
                 name: Blogs en español
                 items:
