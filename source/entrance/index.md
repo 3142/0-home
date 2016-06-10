@@ -17,7 +17,7 @@ menu:
                 items:
                     -
                         name: Pi
-                        path: pi
+                        path: 
                     -
                         name: Portals
                         path: portals
@@ -53,7 +53,7 @@ menu:
 #                items:
 #                    -
 #                        name: Pi
-#                        url: http://es.0.3142.xyz/pi
+#                        url: http://es.0.3142.xyz/
 #                    -
 #                        name: Portales
 #                        url: http://es.0.3142.xyz/portales
