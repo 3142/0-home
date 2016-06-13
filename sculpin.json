@@ -3,9 +3,7 @@
         "component-dir": "source/components"
     },
     "require": {
-        "mavimo/sculpin-redirect-bundle": "@dev"
-    },
-    "autoload": {
-        "psr-0": { "Rocketage\\Sculpin\\Bundle\\MultilingualBundle": "rocketage/sculpin-multilingual-bundle" }
+        "mavimo/sculpin-redirect-bundle": "@dev",
+        "rocketage/sculpin-multilingual-bundle": "@dev"
     }
 }

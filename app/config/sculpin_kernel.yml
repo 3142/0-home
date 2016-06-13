@@ -3,3 +3,8 @@ sculpin:
 sculpin_content_types:
   posts:
     enabled: false
+sculpin_multilingual:
+  shared_directory: 'global'
+  target_directories:
+    - en
+    - es

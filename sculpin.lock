@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "37254af1c558eb8fbeb238b2938bb073",
+    "hash": "f815822334e26bbbc5a7b2df18b08882",
     "packages": [
         {
             "name": "mavimo/sculpin-redirect-bundle",
@@ -51,13 +51,60 @@
                 "static"
             ],
             "time": "2014-01-04 14:40:02"
+        },
+        {
+            "name": "rocketage/sculpin-multilingual-bundle",
+            "version": "dev-master",
+            "target-dir": "Rocketage/Sculpin/Bundle/MultilingualBundle",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/rocketage/sculpin_multilingual.git",
+                "reference": "24f3c186c53e64f8f36409c1ee01f5b8ed9b2a98"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/rocketage/sculpin_multilingual/zipball/24f3c186c53e64f8f36409c1ee01f5b8ed9b2a98",
+                "reference": "24f3c186c53e64f8f36409c1ee01f5b8ed9b2a98",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.2"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Rocketage\\Sculpin\\Bundle\\MultilingualBundle": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Rick Peacock",
+                    "email": "audiodogg@gmail.com",
+                    "homepage": "http://www.audiodog.co.uk"
+                }
+            ],
+            "description": "Sculpin Multilingual Bundle",
+            "homepage": "https://sculpin.io",
+            "keywords": [
+                "blog",
+                "blogging",
+                "multilingual",
+                "site",
+                "static"
+            ],
+            "time": "2016-06-12 22:24:12"
         }
     ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "mavimo/sculpin-redirect-bundle": 20
+        "mavimo/sculpin-redirect-bundle": 20,
+        "rocketage/sculpin-multilingual-bundle": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,
